@@ -35,9 +35,7 @@ const BLOG = {
 
   NOTION_HOST: process.env.NEXT_PUBLIC_NOTION_HOST || 'https://www.notion.so', // Notion域名，您可以选择用自己的域名进行反向代理，如果不懂得什么是反向代理，请勿修改此项
 
-  BLOG_FAVICON: process.env.NEXT_PUBLIC_FAVICON || 'https://blog.tangly1024.com/about
-
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fmusic.163.com%2Fplaylist%3Fid%3D167475949&psig=AOvVaw3PG3ErfB20Js4lx94-bgJK&ust=1714879428703000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDGvuqF84UDFQAAAAAdAAAAABAE', // blog favicon 配置, 默认使用 /public/favicon.ico，支持在线图片，如 https://img.imesong.com/favicon.png
+  BLOG_FAVICON: process.env.NEXT_PUBLIC_FAVICON || 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fmusic.163.com%2Fplaylist%3Fid%3D167475949&psig=AOvVaw3PG3ErfB20Js4lx94-bgJK&ust=1714879428703000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDGvuqF84UDFQAAAAAdAAAAABAE', // blog favicon 配置, 默认使用 /public/favicon.ico，支持在线图片，如 https://img.imesong.com/favicon.png
 
   // START ************网站字体*****************
 
